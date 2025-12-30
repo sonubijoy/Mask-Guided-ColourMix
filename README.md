@@ -76,10 +76,11 @@ If you use this code, please cite:
   author = {Sonu Varghese K},
   title = {Mask-Guided Colour-Mix Data Augmentation for Rice Sheath Blight Severity Estimation},
   year = {2025},
-  url = {https://github.com/your-username/Mask-Guided-ColourMix}
+  url = {https://github.com/sonubijoy/Mask-Guided-ColourMix}
 }
 
 ---
 
 ## License
 MIT License
+
